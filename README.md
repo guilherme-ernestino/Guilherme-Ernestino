@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Guilherme 👋
 
-<!--
-**guilherme-ernestino/Guilherme-Ernestino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering student at the University of Lisbon (FCUL).
 
-Here are some ideas to get you started:
+💻 Currently learning and building projects with C# and .NET, with a focus on Object-Oriented Programming, databases, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm constantly working on personal projects to strengthen my programming skills, learn new technologies, and turn what I learn into practical applications.
+
+Currently learning
+C# & .NET
+Object-Oriented Programming
+SQL & Databases
+Git & GitHub
+WPF
+Goals
+
+To become a software developer, gain practical experience, and keep improving through real-world projects.
+
+Thanks for visiting my profile! :)
